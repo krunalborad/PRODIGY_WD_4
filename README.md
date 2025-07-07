@@ -1,2 +1,2 @@
 # PRODIGY_WD_4
-Prodigy Web Development Internship
+Prodigy Web Development Internship Task
